@@ -18,7 +18,7 @@ e sempre colocar apos else do else if.
     >= maior igual
 */
 
-while(x > 0){
+while(x > 10){
     alert(x);
     x++;
 }
